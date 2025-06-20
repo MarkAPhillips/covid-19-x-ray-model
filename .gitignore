@@ -194,3 +194,4 @@ cython_debug/
 .cursorindexingignore
 
 *.h5
+.DS_Store
