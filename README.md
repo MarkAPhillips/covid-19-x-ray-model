@@ -6,7 +6,7 @@ Please note before training the model the training data wil need to generated lo
 
 This will generate a "covid_19_training_data.h5" file which can then be used to train the model.
 
-Training time is approx. 4-5 hrs based on Apple Mac Airbook with 8Mb CPU Ram.
+Training time is approx. 3-4 hrs based on Apple Mac Airbook with 8Mb CPU Ram.
 
 When complete this will geneate a file in the format:
 
