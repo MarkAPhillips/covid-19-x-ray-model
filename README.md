@@ -30,12 +30,14 @@ Tabulate - Pretty table formatting
 
 ## Information
 
+Please run all code blocks in order, this will ensure that all dependencies are installed.
+
 Please note before training the model the training data wil need to generated locally by running the appropriate code block in the Jupyter notebook
 
-This will generate a **covid_19_training_data.h5** file which can then be used to train the model.
+This will generate a ``covid_19_training_data.h5`` file which can then be used to train the model.
 
 Training time is approx. 3-4 hrs (based when running on a Apple Mac Airbook with 8Mb CPU Ram).
 
 When training is complete this will generate a keras file in the format:
 
-**covid_19_classifier_[timestamp].keras**
+``covid_19_classifier_[timestamp].keras``
